@@ -8,7 +8,7 @@
 
 ## _Variables_
 
-*subjectId 
+* subjectId 
 *activity
 *tBodyAcc-mean-X
 *tBodyAcc-mean-Y
